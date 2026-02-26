@@ -1,15 +1,3 @@
----
-title: AI-Powered Multi-Asset Portfolio Optimizer With Risk Management
-colorFrom: gray
-colorTo: gray
-sdk: gradio
-sdk_version: 6.7.0
-app_file: app.py
-pinned: false
-license: mit
-short_description: AI-Powered Multi-Asset Portfolio Optimizer
----
-
 # AI-Powered Multi-Asset Portfolio Optimizer with Risk Management
 
 A production-grade portfolio optimization system that combines classical financial theory with modern machine learning. The system integrates Modern Portfolio Theory, the Black-Litterman model, XGBoost and LSTM return forecasting, Fama-French multi-factor analysis, FinBERT sentiment analysis, and advanced risk metrics into a unified pipeline for multi-asset portfolio construction and management.
